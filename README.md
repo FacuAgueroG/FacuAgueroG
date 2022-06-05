@@ -30,6 +30,6 @@ Tengo 24 años, tengo un secundario de tecnico electronico y soy estudiante de i
 
 ## Ragnarok proyect (Art)
 
-<p><img align="center" alt="gif" src="https://github.com/FacuAgueroG/FacuAgueroG/blob/main/Ragnarok2.gif" width=auto height=auto/><p>
+<p><img align="center" alt="gif" src="https://github.com/FacuAgueroG/FacuAgueroG/blob/main/RagnarokArt.gif" width=auto height=auto/><p>
 
 ---
