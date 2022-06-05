@@ -28,5 +28,5 @@ Tengo 24 años, tengo un secundario de tecnico electronico y soy estudiante de i
 - AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
 
-https://media.giphy.com/media/dmfXW5ptU0J3OU5T2W/giphy.gif
+https://github.com/FacuAgueroG/FacuAgueroG/blob/main/Ragnarok.gif
 ---
