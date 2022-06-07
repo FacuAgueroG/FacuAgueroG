@@ -11,7 +11,7 @@ Tengo 24 años, tengo un secundario de tecnico electronico y soy estudiante de i
 - Back-end: JS, NodeJS y Express
 - Front-end: Angular, React y VanillaJS
 - BBDD: Mysql y MongoDB
-- Diseño de paginas web: Figma
+- Prototipado / Editor de graficos: Figma
 - Soft para trabajos en equipo: Trello, Slack y obviamente... Git :D
 
 ## ⚡ Otras tecnologias (Hobbies)
