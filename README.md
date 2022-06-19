@@ -7,12 +7,13 @@ Soy un desarrollador independiente, trabajo hace años en el desarrollo de softw
 Tengo 24 años, tengo un secundario de tecnico electronico y soy estudiante de ingenieria en sistemas. 
 
 ## ⚡ Tecnologias
-
+- Tecnologias basicas: HTML, CSS(grid-flex-bootstrap-materialize-mui)
 - Back-end: JS, NodeJS y Express
 - Front-end: Angular, React y VanillaJS
 - BBDD: Mysql y MongoDB
 - Prototipado / Editor de graficos: Figma
 - Soft para trabajos en equipo: Trello, Slack y obviamente... Git :D
+- Soft extra utilizado: postman, xampp, mamp
 
 ## ⚡ Otras tecnologias (Hobbies)
 
