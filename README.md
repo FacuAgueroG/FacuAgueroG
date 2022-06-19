@@ -1,6 +1,6 @@
 
 # Facundo Agüero García 😃
-Desarrollador Full stack web| Arquitectura de software | Hobbie: Diseño, Direccion y Desarrollo de videojuegos en Unity C# con mis amigos.
+Desarrollador Full stack web | Arquitectura de software | Hobbie: Diseño, Direccion y Desarrollo de videojuegos en Unity C# con mis amigos.
 
 ## 🧐 Sobre mi
 Soy un desarrollador independiente, trabajo hace años en el desarrollo de software como hobbie, pero ahora mas que nunca estoy dispuesto a emprender dentro del mundo del desarrollo web como algo estable, me queda un largo camino por recorrer, pero estoy dispuesto a aprender y mejorar. 
@@ -13,7 +13,7 @@ Tengo 24 años, tengo un secundario de tecnico electronico y soy estudiante de i
 - BBDD: Mysql y MongoDB
 - Prototipado / Editor de graficos: Figma
 - Soft para trabajos en equipo: Trello, Slack y obviamente... Git :D
-- Soft extra utilizado: postman, xampp, mamp
+- Soft extra utilizado: postman, insomnia, xampp, mamp
 
 ## ⚡ Otras tecnologias (Hobbies)
 
