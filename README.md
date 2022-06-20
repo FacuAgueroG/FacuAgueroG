@@ -8,7 +8,7 @@ Tengo 24 años, tengo un secundario de tecnico electronico y soy estudiante de i
 
 ## ⚡ Tecnologias
 - Tecnologias basicas: HTML, CSS(grid-flex-bootstrap-materialize-mui)
-- Back-end: JS, NodeJS y Express
+- Back-end: JS, JS=> Typescript, NodeJS y Express
 - Front-end: Angular, React y VanillaJS
 - BBDD: Mysql y MongoDB
 - Prototipado / Editor de graficos: Figma
