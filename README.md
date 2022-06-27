@@ -26,6 +26,6 @@ Tengo 24 años, tengo un secundario de tecnico electronico y soy estudiante de i
 
 ## 📥 Descarga mi CV 
 
-- AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+- https://drive.google.com/file/d/1UX5VjtcKMe65EDoB1a39VzB1vOKAETIA/view?usp=sharing
 
 ---
