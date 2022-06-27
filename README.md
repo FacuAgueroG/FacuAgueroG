@@ -22,10 +22,10 @@ Tengo 24 años, tengo un secundario de tecnico electronico y soy estudiante de i
 
 ## 📫 Contacto
 - Gmail - Facuaguerog@gmail.com
-- LinkedIn - https://www.linkedin.com/in/facundo-aguero-b471431a1
+- LinkedIn - [linkedin.com/in/facuaguerog](https://www.linkedin.com/in/facundoaguerog/)
 
 ## 📥 Descarga mi CV 
 
-- https://drive.google.com/uc?export=download&id=1UX5VjtcKMe65EDoB1a39VzB1vOKAETIA
+- [Cv - Facundo Nahuel Agüero García](https://drive.google.com/uc?export=download&id=1UX5VjtcKMe65EDoB1a39VzB1vOKAETIA)
 
 ---
