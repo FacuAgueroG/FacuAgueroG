@@ -26,6 +26,6 @@ Tengo 24 años, tengo un secundario de tecnico electronico y soy estudiante de i
 
 ## 📥 Descarga mi CV 
 
-- [Cv - Facundo Nahuel Agüero García](https://drive.google.com/uc?export=download&id=1UX5VjtcKMe65EDoB1a39VzB1vOKAETIA)
+- [Cv - Facundo Nahuel Agüero García](https://drive.google.com/uc?export=download&id=1Qdu5Sm1ZfFL61aGS_b2dlzn9XkNFXjmL)
 
 ---
