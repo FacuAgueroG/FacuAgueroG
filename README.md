@@ -10,7 +10,7 @@ Tengo 24 años, tengo un secundario de tecnico electronico y soy estudiante de i
 - Tecnologias basicas: HTML, CSS(grid-flex-bootstrap-materialize-mui)
 - Back-end: JS, JS=> Typescript, NodeJS y Express
 - Front-end: Angular, React y VanillaJS
-- BBDD: Mysql y MongoDB
+- Data base: Mysql y MongoDB
 - Prototipado / Editor de graficos: Figma
 - Soft para trabajos en equipo: Trello, Slack y obviamente... Git :D
 - Soft extra utilizado: postman, insomnia, xampp, mamp
