@@ -9,7 +9,7 @@ Tengo 24 años, tengo un secundario de tecnico electronico y soy estudiante de i
 ## ⚡ Tecnologias
 - Tecnologias basicas: HTML, CSS(grid-flex-bootstrap-materialize-mui)
 - Back-end: JS, JS=> Typescript, NodeJS y Express
-- Front-end: Angular, React y VanillaJS
+- Front-end: React y VanillaJS
 - Data base: Mysql y MongoDB
 - Prototipado / Editor de graficos: Figma
 - Soft para trabajos en equipo: Trello, Slack y obviamente... Git :D
