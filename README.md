@@ -7,8 +7,8 @@ Soy un desarrollador independiente, trabajo hace años en el desarrollo de softw
 Tengo 25 años, tengo un secundario de tecnico electronico y soy estudiante de ingenieria en sistemas. 
 
 ## ⚡ Tecnologias
-- Tecnologias basicas: HTML, CSS(grid-flex-bootstrap-materialize-mui)
-- Back-end: JS, JS=> Typescript, NodeJS y Express
+- Tecnologias basicas: HTML, CSS(grid-flex-bootstrap-materialize-mui) JS, JS=> Typescript
+- Back-end: NodeJS y Express
 - Front-end: React y VanillaJS
 - Data base: Mysql y MongoDB
 - Prototipado / Editor de graficos: Figma
